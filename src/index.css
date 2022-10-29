@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.selected {
+  background-color: yellow;
+}
+
+
+.navigationContainer{
+  background-color: red;
+  margin-bottom: 10px;
+}
+
+.imageContainer{
+  width: 100%;
+  height: 600px;
+  color:#fff;
+  background-image: url('/src/images/hero.png');
+}
+
+.mt-100{
+  margin-top: 100px;
+}
+.modifiedDateTime{
+  background-color: red;
+}
+.mb30{
+  margin-bottom: 30px;
+}
+.p30{
+  padding: 30px;
+}
+.resturantImage{
+  height: 140px;
+  width: 140px;
+}

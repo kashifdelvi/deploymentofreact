@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploymentofreact/static/css/main.4278c33f.css",
+    "main.js": "/deploymentofreact/static/js/main.6719ec42.js",
+    "static/js/787.728c8053.chunk.js": "/deploymentofreact/static/js/787.728c8053.chunk.js",
+    "static/media/hero.png": "/deploymentofreact/static/media/hero.dc4efce107663bb04134.png",
+    "index.html": "/deploymentofreact/index.html",
+    "main.4278c33f.css.map": "/deploymentofreact/static/css/main.4278c33f.css.map",
+    "main.6719ec42.js.map": "/deploymentofreact/static/js/main.6719ec42.js.map",
+    "787.728c8053.chunk.js.map": "/deploymentofreact/static/js/787.728c8053.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4278c33f.css",
+    "static/js/main.6719ec42.js"
+  ]
+}
